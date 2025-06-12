@@ -1,1 +1,1 @@
-# ASD_Prediction_Model
+# autism-prediction-model
